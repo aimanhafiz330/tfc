@@ -18,7 +18,7 @@
 
 - `pkg install git`
 - `pkg install python python-pip`
-- ``
+- `https://github.com/aimanhafiz330/tfc.git`
 - `cd tfc`
 - `pip install -r requirements.txt`
 - `python main.py`
